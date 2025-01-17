@@ -17,7 +17,7 @@ builder.Services.AddMarten(opts =>
 
 var app = builder.Build();
 
-// Configura the HTTP reuqest pipeline.
+// Configure the HTTP request pipeline.
 
 app.MapCarter();
 
