@@ -1,5 +1,4 @@
-﻿
-using Catalog.API.Products.GetProducts;
+﻿using Catalog.API.Products.GetProducts;
 
 namespace Catalog.API.Products.DeleteProduct;
 
